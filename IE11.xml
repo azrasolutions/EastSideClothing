@@ -34,7 +34,10 @@
 	<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in>
 		</site>
-	
+	<site url="cbank.abchina.com.cn">
+	<compat-mode>Default</compat-mode>
+		<open-in>IE11</open-in>
+		</site>
 	
 	
 	
